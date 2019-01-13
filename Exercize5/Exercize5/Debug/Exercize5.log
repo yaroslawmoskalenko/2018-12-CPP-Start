@@ -1,0 +1,5 @@
+﻿  Exercize5.cpp
+e:\projects\2018-12-cpp-start\exercize5\exercize5\exercize5.cpp(13): warning C4305: инициализация: усечение из "double" в "float"
+e:\projects\2018-12-cpp-start\exercize5\exercize5\exercize5.cpp(14): warning C4305: инициализация: усечение из "double" в "float"
+e:\projects\2018-12-cpp-start\exercize5\exercize5\exercize5.cpp(15): warning C4305: инициализация: усечение из "double" в "float"
+  Exercize5.vcxproj -> E:\Projects\2018-12-CPP-Start\Exercize5\Debug\Exercize5.exe
