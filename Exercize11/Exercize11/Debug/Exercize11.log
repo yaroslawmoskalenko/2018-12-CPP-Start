@@ -1,0 +1,6 @@
+﻿  Exercize11.cpp
+e:\projects\2018-12-cpp-start\exercize11\exercize11\exercize11.cpp(12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+e:\projects\2018-12-cpp-start\exercize11\exercize11\exercize11.cpp(43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+e:\projects\2018-12-cpp-start\exercize11\exercize11\exercize11.cpp(51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+e:\projects\2018-12-cpp-start\exercize11\exercize11\exercize11.cpp(59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Exercize11.vcxproj -> E:\Projects\2018-12-CPP-Start\Exercize11\Debug\Exercize11.exe
